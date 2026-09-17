@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxemilien</h1>
 <h3 align="center">An aspiring .NET Full-stack Dev...</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
